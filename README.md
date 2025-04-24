@@ -95,8 +95,8 @@ This project is part of the [freeCodeCamp](https://www.freecodecamp.org) certifi
 
 ## ✍️ Author
 
-**[Your Name]**  
-GitHub: [@your-username](https://github.com/your-username)
+**[Ayush]**  
+GitHub: [@AyushSingh360](https://github.com/AyushSingh360)
 
 ---
 
