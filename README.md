@@ -44,7 +44,7 @@ This project uses the **SMS Spam Collection Dataset**, a public dataset of label
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/Neural-Network-SMS-Text-Classifier.git
+   git clone https://github.com/AyushSingh360/Neural-Network-SMS-Text-Classifier.git
    cd Neural-Network-SMS-Text-Classifier
    ```
 
